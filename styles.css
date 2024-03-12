@@ -7,3 +7,12 @@
 .message{
     font-size: 100px;
 }
+
+.button{
+    font-size: 50px;
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
